@@ -1,9 +1,12 @@
 <div align="center">
-  <a href='https://github.com/BirthdayyBot'><img src="https://github.com/nikolaischunk/nikolaischunk/assets/58025175/3b87d6d4-915e-4736-a7fa-a3e0e93a5ae9"></a>
+  <a href='https://github.com/BirthdayyBot'><img src="https://filebox-1-y7091880.deta.app/embed/842d4eb7371f8ae3"></a>
   <p>👆 Check out my passion project - <a href="https://birthdayy.xyz">Birthdayy</a></p>
 </div>
 
 [![nikoilaischunk's GitHub stats](https://github-readme-stats-dp5mw3q64-nikolaischunk.vercel.app/api?username=nikolaischunk&count_private=true&show_icons=true2&border_radius=15&bg_color=262828&icon_color=78C2AD&border_color=78C2AD&title_color=78C2AD&text_color=b8ded6)](https://github.com/nikolaischunk/nikolaischunk)
+
+[![Visitors](https://komarev.com/ghpvc?username=nikolaischunk&color=78c2ad)](https://github.com/nikolaischunk/nikolaischunk)
+
 <!--
 **nikolaischunk/nikolaischunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
